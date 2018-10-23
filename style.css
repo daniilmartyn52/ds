@@ -1,0 +1,26 @@
+/*Оформление параграфов*/
+body{
+    background-color: #333333;
+background-image: url(images/imag.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 100px 100px;
+    background: #333333 url(images/imag.jpg) repeat-x fixed top left;
+}
+
+#page{
+    width:960px;
+    margin: 0 auto;
+}
+.strong-red{
+    font-weight: bold;
+    color: red;
+}
+.light-blue{
+    font-weight: bold;
+    color: blue;
+}
+.light-blue{
+    font-size: 18px;
+    color: black;
+}
